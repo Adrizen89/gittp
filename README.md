@@ -1,6 +1,6 @@
 # git
 
-A new Flutter project.
+git flow project V1
 
 ## Getting Started
 
